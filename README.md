@@ -15,4 +15,13 @@ Project Plan and Vision(leader)
 Architecture(leader)
 Test(helper)
 
+Position	Leader	Helper
+Project Manager	İrem Özen	
+Project Plan and Vision	Gülşah Erdoğan	Gülendam Buket Gündüz
+Requirement	Gülendam Buket Gündüz	Gülşah Erdoğan
+Development	İrem Özen	
+Architecture	Gülşah Erdoğan	İrem Özen
+Test	Gülendam Buket Gündüz	Gülşah Erdoğan
+
+
 
