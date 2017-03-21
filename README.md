@@ -1,20 +1,17 @@
-Software Enginerring Laboratory Group 9
+# Software Engineering Laboratory Group 9
 
-İrem Özen:
-Project Manager(Leader)
-Development(leader)
-Architecture(helper)
+# Group Members
 
-Gülendam Buket Gündüz: 
-Project Plan and Vision(helper)
-Requirement(leader)
-Test(leader)
-
-Gülşah Erdoğan:
-Project Plan and Vision(leader)
-Architecture(leader)
-Test(helper)
+|Student ID|	Name-Surname|	E-Mail|
+|21328026	|Gülendam Buket Gündüz|	gulendambuketgunduz@gmail.com|
+|21328337	|İrem Özen|iremozeen@gmail.com|
+|21327953	|Gülşah Erdoğan|gulsaherdogan_@hotmail.com |
 
 
-
-
+|Position|	|Leader|	Helper|
+|Project Manager|	İrem Özen| |	
+|Project Plan and Vision|	Gülşah Erdoğan|	Gülendam Buket Gündüz|
+|Requirement| Gülendam Buket Gündüz|	Gülşah Erdoğan|
+|Development|	İrem Özen|	
+|Architecture|	Gülşah Erdoğan|	İrem Özen|
+|Test|	Gülendam Buket Gündüz|	Gülşah Erdoğan|
