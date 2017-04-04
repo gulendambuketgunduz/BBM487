@@ -1,0 +1,16 @@
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LibraryLoanSystem.csprojResolveAssemblyReference.cache
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LibrarianOperationsForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManipulateBooksForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ManipulateMembersForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MemberOperationsForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SignUpForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LibraryLoanSystem.csproj.GenerateResource.Cache
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CommunicationLibraryForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FineForm.resources
+D:\yazılım müh lab\1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reser_Selfche_SelfretForm.resources
